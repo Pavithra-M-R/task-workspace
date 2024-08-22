@@ -1,0 +1,24 @@
+[
+ {
+  "address": "Ujire",
+  "amended_from": null,
+  "data_fgjf": null,
+  "docstatus": 1,
+  "doctype": "Teacher",
+  "modified": "2024-08-13 10:03:33.134184",
+  "name": "Rakha",
+  "name1": "Rekha",
+  "school_name": "SDM"
+ },
+ {
+  "address": "Ujire",
+  "amended_from": null,
+  "data_fgjf": null,
+  "docstatus": 1,
+  "doctype": "Teacher",
+  "modified": "2024-08-13 12:47:30.908292",
+  "name": "Padma",
+  "name1": "Padhma",
+  "school_name": "SDM"
+ }
+]
