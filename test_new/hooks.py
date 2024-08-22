@@ -5,6 +5,22 @@ app_description = "test new app"
 app_email = "pavithramr88@gmail.com"
 app_license = "mit"
 
+#fixtures = [
+#    "Teacher",
+#    "Custom HTML Block",
+#    "Subject Details",
+#    "Student Details"
+#]
+#fixtures = [
+#    {
+#        "doctype": "File",
+#        "filters": [
+#            ["name", "=", "7f32074a69"],
+#            ["file_name", "=", "360_F_397670713_R8MWa6iFkNiGz3bRzSFXBhScf2fMxWnE.jpg"]
+#        ]
+#    }
+#]
+
 fixtures = [
     "Teacher"
 ]
@@ -21,8 +37,7 @@ fixtures = [
     {
         "doctype": "File",
         "filters": [
-            ["name", "=", "7f32074a69"],
-            ["file_name", "=", "360_F_397670713_R8MWa6iFkNiGz3bRzSFXBhScf2fMxWnE.jpg"]
+            ["name", "=", "7f32074a69"]
         ]
     }
 ]
