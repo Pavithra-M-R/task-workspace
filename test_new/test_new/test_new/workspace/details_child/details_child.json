@@ -1,0 +1,42 @@
+{
+  "charts": [],
+  "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Details-child\"}},{\"id\":\"_O7yGKxXHG\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"SD College\",\"col\":12}},{\"type\":\"paragraph\",\"data\":{\"text\":\"This is the new text block.\"}}]",
+  "creation": "2024-08-13 11:03:14.904285",
+  "custom_blocks": [
+    {
+      "custom_block_name": "SD College",
+      "label": "SD College",
+      "parent": "Details-child",
+      "parentfield": "custom_blocks",
+      "parenttype": "Workspace"
+    },
+    {
+      "custom_block_name": "SD College",
+      "label": "SD College",
+      "parent": "Details-child",
+      "parenttype": "Workspace"
+    }
+  ],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "for_user": "",
+  "hide_custom": 0,
+  "idx": 0,
+  "indicator_color": "purple",
+  "is_hidden": 0,
+  "label": "Details-child",
+  "links": [],
+  "modified": "2024-08-17 16:49:39.557677",
+  "modified_by": "Administrator",
+  "module": "test new",
+  "name": "Details-child",
+  "number_cards": [],
+  "owner": "Administrator",
+  "parent_page": "Details",
+  "public": 1,
+  "quick_lists": [],
+  "roles": [],
+  "sequence_id": 2.0,
+  "shortcuts": [],
+  "title": "Details-child"
+}
