@@ -1,0 +1,13 @@
+h3.ellipsis.title-text[title="Details"] {
+  color: #0000ff;
+}
+.widget .widget-head .widget-label .widget-title .ellipsis[title="Teachers Details"] {
+  color: #228B22;
+}
+.widget .widget-head .widget-label .widget-title .ellipsis[title="Student Details"]
+{
+ color: #228B22;
+}
+.widget .widget-head .widget-label .widget-title .ellipsis[title="Address"]{
+ color: #228B22;
+}
