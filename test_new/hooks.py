@@ -23,6 +23,9 @@ app_include_css = "/assets/test_new/css/c_style.css"
 fixtures = [
     "Student Details",
 ]
+fixtures = [
+    "Custom HTML Block"
+]
 
 # required_apps = []
 
