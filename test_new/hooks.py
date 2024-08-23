@@ -34,8 +34,6 @@ fixtures = [
 fixtures = [
     "Student Details"
 ]
-
-
 # required_apps = []
 
 # Includes in <head>
