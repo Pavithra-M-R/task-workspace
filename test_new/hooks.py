@@ -34,14 +34,7 @@ fixtures = [
 fixtures = [
     "Student Details"
 ]
-fixtures = [
-    {
-        "doctype": "File",
-        "filters": [
-            ["name", "=", "7f32074a69"]
-        ]
-    }
-]
+
 
 # required_apps = []
 
