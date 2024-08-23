@@ -5,6 +5,7 @@ app_description = "test new app"
 app_email = "pavithramr88@gmail.com"
 app_license = "mit"
 
+app_include_css = "assets/test_new/css/c_style.css"
 #fixtures = [
 #    "Teacher",
 #    "Custom HTML Block",
