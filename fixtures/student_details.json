@@ -1,0 +1,24 @@
+[
+ {
+  "address": "Ujire",
+  "amended_from": null,
+  "class": "10",
+  "docstatus": 1,
+  "doctype": "Student Details",
+  "modified": "2024-08-13 09:59:57.242493",
+  "name": "Shwetha-003",
+  "name1": "Shwetha",
+  "school_name": "SDM"
+ },
+ {
+  "address": "Belthangady",
+  "amended_from": null,
+  "class": "12",
+  "docstatus": 1,
+  "doctype": "Student Details",
+  "modified": "2024-08-13 10:00:31.944309",
+  "name": "Chethan-004",
+  "name1": "Chethan",
+  "school_name": "Gurudeva"
+ }
+]
