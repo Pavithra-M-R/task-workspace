@@ -1,0 +1,84 @@
+[
+ {
+  "custom_user_details_tablea": [
+   {
+    "city": "Manglore",
+    "contact": "7022822953",
+    "country": "India",
+    "custom_name": "0000001",
+    "parent": "000003",
+    "parentfield": "custom_user_details_tablea",
+    "parenttype": "C-",
+    "user": "chethan@gmail.com"
+   },
+   {
+    "city": "Ujire",
+    "contact": "7022822986",
+    "country": "India",
+    "custom_name": "000002",
+    "parent": "000003",
+    "parentfield": "custom_user_details_tablea",
+    "parenttype": "C-",
+    "user": "pavithramr88@gmail.com"
+   }
+  ],
+  "custom_user_details_tableb": [
+   {
+    "city": "Manglore",
+    "contact": "7022822953",
+    "country": "india",
+    "custom_name": "000002",
+    "parent": "000003",
+    "parentfield": "custom_user_details_tableb",
+    "parenttype": "C-",
+    "user": "chethan@gmail.com"
+   },
+   {
+    "city": "Belthangady",
+    "contact": "7022822956",
+    "country": "India",
+    "custom_name": "000001",
+    "parent": "000003",
+    "parentfield": "custom_user_details_tableb",
+    "parenttype": "C-",
+    "user": "shwetha@gmail.com"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "C-",
+  "modified": "2024-08-26 12:45:10.478620",
+  "name": "000003",
+  "user": null
+ },
+ {
+  "custom_user_details_tablea": [
+   {
+    "city": "Ujire",
+    "contact": "7022822986",
+    "country": "India",
+    "custom_name": "000002",
+    "parent": "000004",
+    "parentfield": "custom_user_details_tablea",
+    "parenttype": "C-",
+    "user": "pavithramr88@gmail.com"
+   }
+  ],
+  "custom_user_details_tableb": [
+   {
+    "city": "Belthangady",
+    "contact": "7022822956",
+    "country": "India",
+    "custom_name": "000001",
+    "parent": "000004",
+    "parentfield": "custom_user_details_tableb",
+    "parenttype": "C-",
+    "user": "shwetha@gmail.com"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "C-",
+  "modified": "2024-08-26 12:45:35.266104",
+  "name": "000004",
+  "user": null
+ }
+]
