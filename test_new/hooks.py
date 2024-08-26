@@ -20,9 +20,6 @@ fixtures = [
     "Subject Details"
 ]
 fixtures = [
-    "Document Naming Rule"
-]
-fixtures = [
     "Custom Field"
 ]
 fixtures = [
