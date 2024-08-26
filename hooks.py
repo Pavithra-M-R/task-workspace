@@ -32,10 +32,10 @@ fixtures = [
     "B-"
 ]
 fixtures = [
-    "C-"
+    "Document Naming Rule"
 ]
 fixtures = [
-    "Document Naming Rule"
+    "C-"
 ]
 # required_apps = []
 
