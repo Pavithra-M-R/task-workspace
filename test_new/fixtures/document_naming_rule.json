@@ -1,0 +1,41 @@
+[
+ {
+  "conditions": [],
+  "counter": 10,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Document Naming Rule",
+  "document_type": "C-",
+  "modified": "2024-08-26 17:13:33.214491",
+  "name": "idi5g3833s",
+  "prefix": "00",
+  "prefix_digits": 5,
+  "priority": 0
+ },
+ {
+  "conditions": [],
+  "counter": 3,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Document Naming Rule",
+  "document_type": "A-",
+  "modified": "2024-08-26 16:59:37.124254",
+  "name": "ib7v4lr064",
+  "prefix": "0",
+  "prefix_digits": 5,
+  "priority": 0
+ },
+ {
+  "conditions": [],
+  "counter": 2,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Document Naming Rule",
+  "document_type": "B-",
+  "modified": "2024-08-26 17:02:00.522419",
+  "name": "o2mu5329ug",
+  "prefix": "0",
+  "prefix_digits": 5,
+  "priority": 0
+ }
+]

@@ -1,0 +1,72 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-08-26 16:50:14.697641",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_qxuy",
+  "user",
+  "add_details",
+  "section_break_b6x8",
+  "user_details_tablea",
+  "user_details_tableb"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_qxuy",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "user",
+   "fieldtype": "Link",
+   "label": "User",
+   "options": "User"
+  },
+  {
+   "fieldname": "add_details",
+   "fieldtype": "Button",
+   "label": "Add Details"
+  },
+  {
+   "fieldname": "section_break_b6x8",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "user_details_tablea",
+   "fieldtype": "Table",
+   "label": "User Details TableA",
+   "options": "User Details TableA"
+  },
+  {
+   "fieldname": "user_details_tableb",
+   "fieldtype": "Table",
+   "label": "User Details TableB",
+   "options": "User Details TableB"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-08-26 17:03:12.299717",
+ "modified_by": "Administrator",
+ "module": "test new",
+ "name": "C-",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
