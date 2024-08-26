@@ -2,8 +2,8 @@
  {
   "docstatus": 0,
   "doctype": "C-",
-  "modified": "2024-08-26 17:23:17.018504",
-  "name": "0000008",
+  "modified": "2024-08-26 18:18:05.168486",
+  "name": "0000012",
   "user": null,
   "user_details_tablea": [
    {
@@ -11,61 +11,39 @@
     "contact": "7022822950",
     "country": "India",
     "name1": "000003",
-    "parent": "0000008",
+    "parent": "0000012",
     "parentfield": "user_details_tablea",
     "parenttype": "C-",
     "user": "chethan@gmail.com"
    }
   ],
-  "user_details_tableb": [
+  "user_details_tableb": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "C-",
+  "modified": "2024-08-26 18:36:59.242121",
+  "name": "0000013",
+  "user": null,
+  "user_details_tablea": [
    {
-    "city": null,
-    "contact": null,
-    "country": null,
-    "name1": "000001",
-    "parent": "0000008",
-    "parentfield": "user_details_tableb",
+    "city": "ujire",
+    "contact": "7022822956",
+    "country": "india",
+    "name1": "000004",
+    "parent": "0000013",
+    "parentfield": "user_details_tablea",
     "parenttype": "C-",
     "user": "pavithramr88@gmail.com"
    }
-  ]
- },
- {
-  "docstatus": 0,
-  "doctype": "C-",
-  "modified": "2024-08-26 17:23:06.103381",
-  "name": "0000009",
-  "user": "shwetha@gmail.com",
-  "user_details_tablea": [
-   {
-    "city": "Ujire",
-    "contact": "7022822950",
-    "country": "India",
-    "name1": "000003",
-    "parent": "0000009",
-    "parentfield": "user_details_tablea",
-    "parenttype": "C-",
-    "user": "chethan@gmail.com"
-   }
   ],
-  "user_details_tableb": [
-   {
-    "city": null,
-    "contact": null,
-    "country": null,
-    "name1": "000002",
-    "parent": "0000009",
-    "parentfield": "user_details_tableb",
-    "parenttype": "C-",
-    "user": "shwetha@gmail.com"
-   }
-  ]
+  "user_details_tableb": []
  },
  {
   "docstatus": 0,
   "doctype": "C-",
-  "modified": "2024-08-26 17:22:37.907140",
-  "name": "0000010",
+  "modified": "2024-08-26 18:36:39.662950",
+  "name": "0000014",
   "user": null,
   "user_details_tablea": [
    {
@@ -73,19 +51,39 @@
     "contact": "7022822950",
     "country": "India",
     "name1": "000003",
-    "parent": "0000010",
+    "parent": "0000014",
     "parentfield": "user_details_tablea",
     "parenttype": "C-",
     "user": "chethan@gmail.com"
    }
   ],
+  "user_details_tableb": []
+ },
+ {
+  "docstatus": 0,
+  "doctype": "C-",
+  "modified": "2024-08-26 18:36:45.889836",
+  "name": "0000015",
+  "user": null,
+  "user_details_tablea": [
+   {
+    "city": "ujire",
+    "contact": "7022822956",
+    "country": "india",
+    "name1": "000004",
+    "parent": "0000015",
+    "parentfield": "user_details_tablea",
+    "parenttype": "C-",
+    "user": "pavithramr88@gmail.com"
+   }
+  ],
   "user_details_tableb": [
    {
-    "city": null,
-    "contact": null,
-    "country": null,
+    "city": "ujire",
+    "contact": "702295862",
+    "country": "india",
     "name1": "000001",
-    "parent": "0000010",
+    "parent": "0000015",
     "parentfield": "user_details_tableb",
     "parenttype": "C-",
     "user": "pavithramr88@gmail.com"

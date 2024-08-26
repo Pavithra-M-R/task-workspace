@@ -23,13 +23,13 @@ fixtures = [
     "Custom Field"
 ]
 fixtures = [
+    "Document Naming Rule"
+]
+fixtures = [
     "A-"
 ]
 fixtures = [
     "B-"
-]
-fixtures = [
-    "Document Naming Rule"
 ]
 fixtures = [
     "C-"
