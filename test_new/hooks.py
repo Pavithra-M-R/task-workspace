@@ -31,6 +31,9 @@ fixtures = [
 fixtures = [
     "Document Naming Rule"
 ]
+fixtures = [
+    "Custom Field"
+]
 # required_apps = []
 
 # Includes in <head>
