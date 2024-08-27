@@ -14,9 +14,6 @@ fixtures = [
     "Teacher"
 ]
 fixtures = [
-    "Custom HTML Block"
-]
-fixtures = [
     "Subject Details"
 ]
 fixtures = [
@@ -41,6 +38,18 @@ fixtures = [
 ]
 fixtures = [
     "Employee"
+]
+fixtures = [
+    {
+        "doctype": "Report",
+        "filters": {
+            "report_type": "Query Report",
+            "name": ["in", ["Show User"]]
+        }
+    }
+]
+fixtures = [
+    "Custom HTML Block"
 ]
 # required_apps = []
 
