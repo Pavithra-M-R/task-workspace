@@ -20,9 +20,6 @@ fixtures = [
     "Subject Details"
 ]
 fixtures = [
-    "Custom Field"
-]
-fixtures = [
     "Document Naming Rule"
 ]
 fixtures = [
@@ -34,6 +31,15 @@ fixtures = [
 fixtures = [
     "C-"
 ]
+doc_events = {
+    "Employee": {
+        "before_save": "test_new.api.set_employee_form_name"
+    }
+}
+fixtures = [
+    "Custom Field"
+]
+
 # required_apps = []
 
 # Includes in <head>
