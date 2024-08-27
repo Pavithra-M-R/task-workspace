@@ -39,9 +39,11 @@ doc_events = {
 fixtures = [
     "Custom Field"
 ]
+# employee
 fixtures = [
     "Employee"
 ]
+
 # required_apps = []
 
 # Includes in <head>
