@@ -7,6 +7,14 @@ app_license = "mit"
 
 app_include_css = "assets/test_new/css/c_style.css"
 
+app_include_js = "/assets/test_new/js/login_dialog.js"
+#on_login = "app.overrides.successful_login"
+#doc_events = {
+#    "User": {
+#        "on_login": "test_new.api.on_login"
+#    }
+#}
+
 fixtures = [
     "Student Details"
 ]
