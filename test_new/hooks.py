@@ -6,14 +6,18 @@ app_email = "pavithramr88@gmail.com"
 app_license = "mit"
 
 app_include_css = "assets/test_new/css/c_style.css"
+#app_include_css = "assets/test_new/css/hide_search_bar.css"
 
 app_include_js = "/assets/test_new/js/login_dialog.js"
-#on_login = "app.overrides.successful_login"
-#doc_events = {
-#    "User": {
-#        "on_login": "test_new.api.on_login"
-#    }
-#}
+app_include_js = "/assets/test_new/js/workspace12.js"
+
+# my_custom_app/config/hooks.py
+
+doc_events = {
+    "Workspaces": {
+        "onload": "test_new.api.workspace_onload"
+    }
+}
 
 fixtures = [
     "Student Details"
@@ -58,6 +62,12 @@ fixtures = [
 ]
 fixtures = [
     "Custom HTML Block"
+]
+fixtures = [
+    "User"
+]
+fixtures = [
+    "Role"
 ]
 # required_apps = []
 
