@@ -2,17 +2,6 @@
  {
   "docstatus": 0,
   "doctype": "Custom HTML Block",
-  "html": "",
-  "modified": "2024-08-17 16:55:49.813860",
-  "name": "new",
-  "private": 0,
-  "roles": [],
-  "script": "",
-  "style": null
- },
- {
-  "docstatus": 0,
-  "doctype": "Custom HTML Block",
   "html": "<input type=\"button\" value=\"Show User\" class=\"show-user-btn\">\n",
   "modified": "2024-08-27 15:51:29.266300",
   "name": "Show User",
@@ -60,6 +49,17 @@
   "html": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <style>\n        table {\n            width: 100%;\n            height: 100%;\n            border-collapse: collapse;\n            margin: auto;\n        }\n     \n        td {\n            border: 2px solid #ddd;\n            padding: 1px;\n            vertical-align: middle;\n            width: 100%;\n            height: 100%;\n        }\n       \n        img {\n            width: 100%;\n            height: 100%;\n        }\n    </style>\n</head>\n<body>\n    <table>\n        <tbody>\n            <tr>\n                <td>\n                      <img src=\"/assets/test_new/images/360_F_397670713_R8MWa6iFkNiGz3bRzSFXBhScf2fMxWnE.jpg\" alt=\"Company Logo\" />\n                </td>\n            </tr>\n        </tbody>\n    </table>\n</body>\n</html>\n\n",
   "modified": "2024-08-27 16:03:30.469384",
   "name": "College Details",
+  "private": 0,
+  "roles": [],
+  "script": null,
+  "style": null
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Custom HTML Block",
+  "html": null,
+  "modified": "2024-08-30 10:57:18.885475",
+  "name": "new",
   "private": 0,
   "roles": [],
   "script": null,

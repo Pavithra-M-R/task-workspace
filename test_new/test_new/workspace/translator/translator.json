@@ -1,0 +1,37 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"zi-Za_svvu\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">translator</span>\",\"col\":12}},{\"id\":\"wB7vZnJazk\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Text For Translation\",\"col\":12}},{\"id\":\"UWtJSyTh-8\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"new\",\"col\":12}},{\"id\":\"IHAZKMEabI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Check translation\",\"col\":3}}]",
+ "creation": "2024-08-29 11:26:41.604212",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "solid-success",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "translator",
+ "links": [],
+ "modified": "2024-08-30 11:57:33.540778",
+ "modified_by": "Administrator",
+ "module": "test new",
+ "name": "translator",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 39.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Check translation",
+   "link_to": "check-translation",
+   "type": "Page"
+  }
+ ],
+ "title": "translator"
+}
