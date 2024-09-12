@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="csrf-token" content="{{ frappe.session.csrf_token }}">
+
+    <title>User Details</title>
+    <script type="text/javascript" src="/assets/frappe/js/frappe-web.min.js"></script>
+    <script type="text/javascript" src="/assets/frappe/js/frappe-web.bundle.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/frappe@latest/dist/frappe-web.min.js"></script>
+    <script src="/assets/test_new/js/user_details.js" defer></script>
+    <script type="text/javascript" src="/assets/frappe/dist/js/frappe-web.bundle.HL3LQV7I.js"></script>
+
+    <script type="text/javascript" src="/website_script.js"></script>
+    <script type="text/javascript" src="/assets/erpnext/dist/js/erpnext-web.bundle.22EWE5JY.js"></script>
+    <!-- <script src="path/to/your/local/frappe.js"></script> -->
+    
+</head>
+<body>
+    <h2>User Details</h2>
+
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+    
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+    
+    <label for="address">Address:</label><br>
+    <textarea id="address" name="address" required></textarea><br><br>
+    
+    <label for="mobile_number">Mobile Number:</label><br>
+    <input type="text" id="mobile_number" name="mobile_number" required><br><br>
+    
+    <button id="save-button" type="button">Save</button>
+</body>
+</html>
+
