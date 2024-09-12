@@ -10,6 +10,7 @@ app_include_css = "assets/test_new/css/c_style.css"
 
 app_include_js = "/assets/test_new/js/login_dialog.js"
 app_include_js = "/assets/test_new/js/workspace12.js"
+app_include_js = "/assets/test_new/js/user_details.js"
 
 # my_custom_app/config/hooks.py
 
@@ -69,6 +70,14 @@ fixtures = [
 fixtures = [
     "Role"
 ]
+
+#doc_events = {
+#    "Portal User Data": {
+#        "on_submit": "test_new.api.save_portal_user_data"
+#    }
+#}
+
+
 # required_apps = []
 
 # Includes in <head>
